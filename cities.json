@@ -1,0 +1,33 @@
+[
+  {
+    "lat": 37.55,
+    "lon": 126.983,
+    "city": "Seoul"
+  },
+  {
+    "lat": 39.9,
+    "lon": 116.4,
+    "city": "Beijing"
+  },
+  {
+    "lat": 40.717,
+    "lon": -74.0,
+    "city": "New York City"
+  },
+  {
+    "lat": 51.5,
+    "lon": -0.117,
+    "city": "London"
+  },
+  {
+    "lat": 41.9,
+    "lon": 12.5,
+    "city": "Rome"
+  },
+  {
+    "lat": 30.044281,
+    "lon": 31.340002,
+    "city": "Cairo"
+  },
+  
+]
